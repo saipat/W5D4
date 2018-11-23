@@ -34,4 +34,4 @@ String.prototype.subStrings = function() {
 };
 
 
-console.log("apple".subStrings());
+// console.log("apple".subStrings());
