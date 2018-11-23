@@ -9,3 +9,6 @@ Array.prototype.myEach = function(func){
 NUMS.myEach((num) => {
   console.log('Square of ${num}: ${num*num}')
 });
+
+
+//////loooooooooots of Doubbbbbbbbbbbbbbbtsssssssss..
