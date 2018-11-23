@@ -180,4 +180,4 @@ function subsets(array) {
   return noFirst.concat(withFirst);
 }
 
-console.log(`subsets([1, 3, 5]) = ${JSON.stringify(subsets([1, 3, 5]))}`);
+// console.log(`subsets([1, 3, 5]) = ${JSON.stringify(subsets([1, 3, 5]))}`);
